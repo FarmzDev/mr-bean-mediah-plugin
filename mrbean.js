@@ -1,4 +1,4 @@
-import { site } from "http://localhost:25565/static/js/app.js"
+import { site } from "http://81.79.143.134:25565/static/js/app.js"
 
 console.log(site.currentPath)
 
