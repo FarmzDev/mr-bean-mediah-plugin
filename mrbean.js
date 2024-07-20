@@ -1,5 +1,5 @@
 export const imports = {
-    "./lib//handlers": "formatBytes",
+    "./lib//handlers.js": "formatBytes",
 }
 
 // function recieveImports() {
