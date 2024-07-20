@@ -1,5 +1,9 @@
-import { site } from "http://81.79.143.134:25565/static/js/app.js"
+export const imports = {
+    "./lib//handlers": "formatBytes",
+}
 
-console.log(site.currentPath)
+// function recieveImports() {
+
+// }
 
 console.log("Mr bean");
