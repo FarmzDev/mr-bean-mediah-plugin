@@ -1,2 +1,2 @@
 console.log("Mr bean");
-console.log(site.currentPath);
+site.push("/dashboard/bin");
