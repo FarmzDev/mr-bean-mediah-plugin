@@ -13,4 +13,5 @@ if (location.pathname === "/dashboard/files") {
 
 document.querySelector("#mr-bean").addEventListener("click", () => {
     console.log(this.currentPath);
+    saveStorage();
 });
